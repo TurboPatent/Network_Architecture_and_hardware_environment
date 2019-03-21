@@ -1,0 +1,244 @@
+{
+  "name": "Network_Architecture_and_hardware_environment",
+  "description": "network architecture and a representative hardware environment that may be associated with the servers and/or clients",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 115,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 2,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"52f5c44f-3c76-5276-2385-00cfa2ab0f8d\" id=\"id3fc8e912-5af9-094d-9028-5f62a040b568\" data-type=\"term\">network</span> <span data-role=\"tag\" data-value=\"ed1b39c8-7965-7561-7248-1be7fa59c402\" id=\"id17eb94a7-b79a-f1d4-6ac3-374270cf6e83\" data-type=\"term\">architecture</span>, in accordance with <span data-role=\"tag\" data-value=\"8db57ecc-10e9-e366-d03a-ca635781a250\" id=\"id1ce80d0a-3ad0-7531-6aec-bbd993316967\" data-type=\"term\">one embodiment</span>.&nbsp;</p>",
+      "<p>shows a <span data-role=\"tag\" data-value=\"0bbe537d-824d-59ff-747e-fa25d8901d5f\" id=\"id96bced3b-4bd9-2264-6b64-ebb24b189a72\" data-type=\"term\">representative hardware environment</span> that may be associated with the <span data-role=\"tag\" data-value=\"b481f28a-4b7e-b8d2-d062-c78b274a7a45\" id=\"id2f63d955-1562-7afa-0ec2-cc9ef3ff10ff\" data-type=\"term\">servers</span> and/or clients of <span data-role=\"tag\" data-value=\"1b1f2cb1-9a38-4107-07d0-db6d8206248e\" id=\"id9a6b5e41-4099-dda7-7b4e-1a3651b8459e\" data-type=\"figure\">Figure 1</span>, in accordance with <span data-role=\"tag\" data-value=\"8db57ecc-10e9-e366-d03a-ca635781a250\" id=\"id3879707b-149e-99dd-f3de-e86cafb21ba9\" data-type=\"term\">one embodiment</span>.&nbsp;</p>"
+    ],
+    "parts": [
+      {
+        "name": "architecture",
+        "number": 100
+      },
+      {
+        "name": "remote networks",
+        "number": 102
+      },
+      {
+        "name": "first remote network",
+        "number": 104
+      },
+      {
+        "name": "second remote network",
+        "number": 106
+      },
+      {
+        "name": "proximate network",
+        "number": 108
+      },
+      {
+        "name": "user device(s)",
+        "number": 110
+      },
+      {
+        "name": "",
+        "number": 112
+      },
+      {
+        "name": "data server",
+        "number": 114
+      },
+      {
+        "name": "peripheral(s)",
+        "number": 116
+      },
+      {
+        "name": "item",
+        "number": 200
+      },
+      {
+        "name": "central processing unit",
+        "number": 202
+      },
+      {
+        "name": "I/O adapter",
+        "number": 204
+      },
+      {
+        "name": "Random Access Memory (RAM)",
+        "number": 206
+      },
+      {
+        "name": "communication adapter",
+        "number": 208
+      },
+      {
+        "name": "read only memory (ROM)",
+        "number": 210
+      },
+      {
+        "name": "disk storage units",
+        "number": 212
+      },
+      {
+        "name": "network",
+        "number": 214
+      },
+      {
+        "name": "system bus",
+        "number": 216
+      },
+      {
+        "name": "user interface adapter",
+        "number": 218
+      },
+      {
+        "name": "keyboard",
+        "number": 220
+      },
+      {
+        "name": "microphone",
+        "number": 222
+      },
+      {
+        "name": "speaker",
+        "number": 224
+      },
+      {
+        "name": "mouse",
+        "number": 226
+      },
+      {
+        "name": "display adapter",
+        "number": 228
+      },
+      {
+        "name": "display device",
+        "number": 230
+      }
+    ],
+    "terms": [
+      "Random Access Memory (RAM)",
+      "data server(s)",
+      "communication adapter",
+      "display adapter",
+      "user interface adapter",
+      "I/O adapter",
+      "complex applications",
+      "approaches",
+      "more approaches",
+      "architecture",
+      "present architecture",
+      "system bus",
+      "digital camera",
+      "cloud",
+      "cluster",
+      "component",
+      "additional components",
+      "desktop computer",
+      "hand-held computer",
+      "lap-top computer",
+      "cloud computing",
+      "typical hardware configuration",
+      "internet connection",
+      "context",
+      "data",
+      "databases",
+      "present description",
+      "display device",
+      "other user interface devices",
+      "peripheral devices",
+      "user device(s)",
+      "such user devices",
+      "access and distribution",
+      "network element",
+      "embodiments",
+      "one embodiment",
+      "preferred embodiment",
+      "virtualization and/or emulation",
+      "representative hardware environment",
+      "IBM z/OS environment",
+      "MICROSOFT WINDOWS environment",
+      "such figure",
+      "form",
+      "gateway",
+      "computing device/groupware",
+      "internet",
+      "keyboard",
+      "XML, C, and/or C++ language",
+      "other programming languages",
+      "logic",
+      "facsimile machines",
+      "object oriented programming methodology",
+      "microphone",
+      "microprocessor",
+      "mouse",
+      "networks",
+      "network",
+      "communication network",
+      "one or more networks",
+      "data processing network",
+      "proximate network",
+      "remote networks",
+      "first remote network",
+      "second remote network",
+      "telephone network",
+      "internal telephone network",
+      "number",
+      "systems operating",
+      "UNIX OS",
+      "given packet",
+      "actual path",
+      "peripheral(s)",
+      "platforms",
+      "plurality",
+      "entrance point",
+      "processing power",
+      "printer",
+      "printers",
+      "object oriented programming",
+      "PSTN",
+      "read only memory (ROM)",
+      "on-demand relationship",
+      "resident",
+      "shared resources",
+      "router",
+      "Microsoft Windows.RTM",
+      "touch screen",
+      "series",
+      "servers",
+      "server",
+      "data server",
+      "at least one data server",
+      "services",
+      "software",
+      "VMWARE software",
+      "speaker",
+      "switch",
+      "systems",
+      "system",
+      "methods and systems",
+      "many computing systems",
+      "operating system",
+      "operating systems",
+      "virtual systems and/or systems",
+      "one or more other systems",
+      "UNIX system",
+      "MICROSOFT WINDOWS system",
+      "other techniques",
+      "type",
+      "other type",
+      "other units",
+      "central processing unit",
+      "disk storage units",
+      "networked and/or local storage units",
+      "workstation"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Network_Architecture_and_hardware_environment"
+}
